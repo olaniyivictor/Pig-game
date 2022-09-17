@@ -1,6 +1,6 @@
 # Pig-game
 A pig-game created using Vanillajs,HTml &amp; CSS <br>
-<b>Features</b>
+##Features
 <ul>
   <li> a </li>
   </ul>
