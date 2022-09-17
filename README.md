@@ -1,6 +1,6 @@
 # Pig-game
 ##  A pig-game implemented with Vanillajs,HTML &amp; CSS <br>
-#### A pig-game implemented from the The Complete Javascript Course 2022 : From Zero to Experts by Jonas Schmedtmann
+
 ### live-site : https://pig-gamevic.netlify.app/
 
 <b>Features</b>
